@@ -1,2 +1,3 @@
-# Mmacgregor
-Welcome to the super secret bunker - here you will find the important information of one MMacGregor. 
+I'm Michael MacGregor, currently living in Cheyenne, Wyoming. I spend much of my time working on SOC analyst home lab projects to build my cybersecurity skills. In addition, I work on Python scripting, Kali Linux, and AWS cloud solutions. I also have a YouTube channel where I help people with self-reliance, as I believe it's essential to have a plan in an increasingly unpredictable world. Adaptation and overcoming challenges are key. I'm always looking for ways to improve and avoid stagnation—life is about growth.
+
+To stay updated on cybersecurity, I regularly listen to the SimplyCyber podcast. Early in my tech career, I was a college instructor teaching video production and web design. These subjects introduced me to setting up networks, allowing students to transfer larger files to a disk RAID that I could access for grading their projects.
