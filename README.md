@@ -7,7 +7,17 @@ Aspiring Cyber Security SOC Analyst with experience in disaster management leade
 Skills:  HTML / LINUX/SPLUNK/
 
 - 🔭 I’m currently working on ACTIVE DIRECTORY 
-- 🌱 I’m currently learning GRC, SOC ANALYSIS, AND AWS 
+- 🌱 I’m currently learning GRC, SOC ANALYSIS, AND AWS
+
+- <h2> Certifcations </h2>
+
+- Introduction to Cybersecurity Fundamentals
+
+- Cybersecurity for Everyone
+
+- Cisco 
+
+- Cisco 
 
 I'm Michael MacGregor, live in Cheyenne, Wyoming. I spend much of my time working on SOC analyst home lab projects to build my cybersecurity skills. In addition, I work on Python scripting, Kali Linux, and AWS cloud solutions. I also have a YouTube channel where I help people with self-reliance, as I believe it's essential to have a plan in an increasingly unpredictable world. Adaptation and overcoming challenges are key. I'm always looking for ways to improve and avoid stagnation—life is about growth.
 
