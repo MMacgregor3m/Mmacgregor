@@ -21,6 +21,7 @@ Skills:  HTML / LINUX/SPLUNK/
 
 - LetsDefend SOC Member [certificate](https://app.letsdefend.io/my-rewards/detail/739666ce0d3f46d88525943487c2b2c8)
 
+-Splunk [certficate] 
 
 <h2> Projects</h2>
 https://github.com/MMacgregor3m/Python/blob/main/hello.py
