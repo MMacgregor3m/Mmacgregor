@@ -19,7 +19,10 @@ Skills:  HTML / LINUX/SPLUNK/
 
 - Cisco 
 
--<h2> Projects</h2>
+- LetsDefend SOC Member [certificate](https://app.letsdefend.io/my-rewards/detail/739666ce0d3f46d88525943487c2b2c8)
+
+
+<h2> Projects</h2>
 https://github.com/MMacgregor3m/Python/blob/main/hello.py
 
 
