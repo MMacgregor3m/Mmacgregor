@@ -24,7 +24,8 @@ Skills:  HTML / LINUX/SPLUNK/
 -Splunk [certficate] 
 
 <h2> Projects</h2>
-[Hello world](https://github.com/MMacgregor3m/Python/blob/main/hello.py)
+
+First project [Hello world](https://github.com/MMacgregor3m/Python/blob/main/hello.py)
 
 <h2>About Me</h2>
 
