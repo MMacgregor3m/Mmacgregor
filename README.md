@@ -26,6 +26,7 @@ Skills:  HTML / LINUX/SPLUNK/
 <h2> Projects</h2>
 https://github.com/MMacgregor3m/Python/blob/main/hello.py
 
+<h2>About Me</h2>
 
 I'm Michael MacGregor, live in Cheyenne, Wyoming. I spend much of my time working on SOC analyst home lab projects to build my cybersecurity skills. In addition, I work on Python scripting, Kali Linux, and AWS cloud solutions. I also have a YouTube channel where I help people with self-reliance, as I believe it's essential to have a plan in an increasingly unpredictable world. Adaptation and overcoming challenges are key. I'm always looking for ways to improve and avoid stagnation—life is about growth.
 
