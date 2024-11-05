@@ -1,13 +1,64 @@
 ![SOC analyst in Training](https://media.licdn.com/dms/image/v2/D5616AQEoL2LUNXI7GA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706900166245?e=1729123200&v=beta&t=6vVUWHoMY4KG7tZLB_V1HTZFF-Q3_IsbWvXL3RUyn24)
 
-### Hi there 👋, my name is Michael MacGregor
-#### Self Study Cybersecurity Student
-Aspiring Cyber Security SOC Analyst with experience in disaster management leadership, passionate OSINT hobbyist, and versatile in various skills.
+# Michael MacGregor 
 
-Skills:  HTML / LINUX/SPLUNK/
+ 
 
-- 🔭 I’m currently working on ACTIVE DIRECTORY 
-- 🌱 I’m currently learning GRC, SOC ANALYSIS, AND AWS
+## About Me 
+
+Hey there! I'm Michael Macgregor, an aspiring SOC analyst passionate about Self-Reliance, and Disaster mitigation. I love help people develop systems of self-reliance and personal security and enjoy exploring tech and building raspberry PI projects that can works with Ham radio, also currently, I'm building home lab project to help me in my pursuit of a lasting career in Cybersecurity starting with SOC analyst. 
+
+ 
+
+## Skills 
+
+- Programming Languages: Python Java 
+
+- Technologies/Frameworks: [List of Technologies/Frameworks] 
+
+- Tools: [List of Tools] 
+
+ 
+
+## Projects 
+
+Here are some of the projects I've worked on: 
+
+1. **Project Name: ** Brief description of the project. 
+
+   - Technologies used: [Technologies Used] 
+
+   - Link: [Link to the project repository/demo/website] 
+
+ 
+
+2. **Project Name: ** Brief description of the project. 
+
+   - Technologies used: [Technologies Used] 
+
+   - Link: [Link to the project repository/demo/website] 
+
+ 
+
+## Blog 
+
+I occasionally write about [Your Interests/Expertise]. Check out my latest blog post: 
+
+- [Title of Blog Post](Link): Brief description of the post. 
+
+ 
+
+## Get in Touch 
+
+- LinkedIn: https://www.linkedin.com/in/mmacgregor70/ 
+
+- Twitter:  
+
+- Email: m.macgregor70@outlook.com 
+
+ 
+
+Feel free to reach out to collaborate on projects or just to say hi! 
 
 - <h2> Certifcations </h2>
 
