@@ -1,8 +1,4 @@
 
-# Michael MacGregor 
-
- ## About Me 
-
 ---
 
 👋 **Hey there! I'm Michael Macgregor!**  
