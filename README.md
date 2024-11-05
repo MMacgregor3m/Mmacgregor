@@ -1,26 +1,19 @@
-![SOC analyst in Training](https://media.licdn.com/dms/image/v2/D5616AQEoL2LUNXI7GA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706900166245?e=1729123200&v=beta&t=6vVUWHoMY4KG7tZLB_V1HTZFF-Q3_IsbWvXL3RUyn24)
 
 # Michael MacGregor 
 
- 
-
-## About Me 
+ ## About Me 
 
 Hey there! I'm Michael Macgregor, an aspiring SOC analyst passionate about Self-Reliance, and Disaster mitigation. I love help people develop systems of self-reliance and personal security and enjoy exploring tech and building raspberry PI projects that can works with Ham radio, also currently, I'm building home lab project to help me in my pursuit of a lasting career in Cybersecurity starting with SOC analyst. 
 
- 
+ ## Skills 
 
-## Skills 
-
-- Programming Languages: Python Java 
+- Programming Languages: Python, Java 
 
 - Technologies/Frameworks: [List of Technologies/Frameworks] 
 
 - Tools: [List of Tools] 
 
- 
-
-## Projects 
+ ## Projects 
 
 Here are some of the projects I've worked on: 
 
