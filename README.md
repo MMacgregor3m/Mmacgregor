@@ -3,7 +3,8 @@
 
  ## About Me 
 
-Hey there! I'm Michael Macgregor, an aspiring SOC analyst passionate about Self-Reliance, and Disaster mitigation. I love help people develop systems of self-reliance and personal security and enjoy exploring tech and building raspberry PI projects that can works with Ham radio, also currently, I'm building home lab project to help me in my pursuit of a lasting career in Cybersecurity starting with SOC analyst. 
+Hey there! I'm Michael Macgregor, an aspiring SOC analyst passionate about Self-Reliance, and Disaster mitigation. I love help people develop systems of self-reliance and personal security and enjoy exploring tech and building raspberry PI projects that can works with Ham radio, also currently, I'm building home lab project to help me in my pursuit of a lasting career in Cybersecurity starting with SOC analyst. living in Wyoming. I spend much of my time working on SOC analyst home lab projects to build my cybersecurity skills. In addition, I work on Python scripting, Kali Linux, and AWS cloud solutions. I also have a YouTube channel where I help people with self-reliance, as I believe it's essential to have a plan in an increasingly unpredictable world. Adaptation and overcoming challenges are key. I'm always looking for ways to improve and avoid stagnation—life is about growth. To stay updated on cybersecurity, I regularly listen to the SimplyCyber podcast. Early in my tech career, I was a college instructor teaching video production and web design. These subjects introduced me to setting up networks, allowing students to transfer larger files to a disk RAID that I could access for grading their projects.
+
 
  ## Skills 
 
@@ -72,10 +73,6 @@ Feel free to reach out to collaborate on projects or just to say hi!
 First project [Hello world](https://github.com/MMacgregor3m/Python/blob/main/hello.py)
 
 <h2>About Me</h2>
-
-I'm Michael MacGregor, live in Cheyenne, Wyoming. I spend much of my time working on SOC analyst home lab projects to build my cybersecurity skills. In addition, I work on Python scripting, Kali Linux, and AWS cloud solutions. I also have a YouTube channel where I help people with self-reliance, as I believe it's essential to have a plan in an increasingly unpredictable world. Adaptation and overcoming challenges are key. I'm always looking for ways to improve and avoid stagnation—life is about growth.
-
-To stay updated on cybersecurity, I regularly listen to the SimplyCyber podcast. Early in my tech career, I was a college instructor teaching video production and web design. These subjects introduced me to setting up networks, allowing students to transfer larger files to a disk RAID that I could access for grading their projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMacgregor3m)](https://github.com/anuraghazra/github-readme-stats)
 
