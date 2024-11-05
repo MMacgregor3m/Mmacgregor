@@ -3,8 +3,6 @@
 
  ## About Me 
 
-Certainly! Here’s a revised version for your GitHub profile with emojis to give it some flair while keeping it professional and organized:
-
 ---
 
 👋 **Hey there! I'm Michael Macgregor!**  
