@@ -25,9 +25,11 @@ Early in my tech journey, I was a college instructor teaching video production a
 - Programming Languages: Python
 
 - Technologies/Frameworks:
-   - Cybersecurity Tools: Splunk, Wireshark, Tenable Nessus, OSINT Framework
-   - Operating Systems: Windows Server, Linux (Ubuntu, Kali), Android (ATAK)
-
+   - **Cybersecurity Tools**: Splunk, Wireshark, Tenable Nessus, OSINT Framework
+   - **Operating Systems**: Windows Server, Linux (Ubuntu, Kali), Android (ATAK)
+   - **Scripting & Automation**: PowerShell, Python, Bash
+   - **Cloud & Virtualization**: AWS, VMware, VirtualBox, Hyper-V
+   - **Networking: TCP/IP**, Firewall Configurations, VPNs
 - Tools: [List of Tools] 
 
  ## Projects 
