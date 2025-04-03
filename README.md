@@ -24,7 +24,8 @@ Early in my tech journey, I was a college instructor teaching video production a
 
 - Programming Languages: Python
 
-- Technologies/Frameworks: [List of Technologies/Frameworks] 
+- Technologies/Frameworks:
+   - Cybersecurity Tools: Splunk, Wireshark, Tenable Nessus, OSINT Framework
 
 - Tools: [List of Tools] 
 
