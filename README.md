@@ -26,6 +26,7 @@ Early in my tech journey, I was a college instructor teaching video production a
 
 - Technologies/Frameworks:
    - Cybersecurity Tools: Splunk, Wireshark, Tenable Nessus, OSINT Framework
+   - Operating Systems: Windows Server, Linux (Ubuntu, Kali), Android (ATAK)
 
 - Tools: [List of Tools] 
 
