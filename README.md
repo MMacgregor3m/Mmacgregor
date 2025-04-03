@@ -22,7 +22,7 @@ Early in my tech journey, I was a college instructor teaching video production a
 
  ## Skills 
 
-- Programming Languages: Python, Java 
+- Programming Languages: Python
 
 - Technologies/Frameworks: [List of Technologies/Frameworks] 
 
@@ -50,9 +50,9 @@ Here are some of the projects I've worked on:
 
 ## Blog 
 
-I occasionally write about [Your Interests/Expertise]. Check out my latest blog post: 
+I occasionally write about my journeys in cybersecurity and cloud architecture. Check out my latest blog post: 
 
-- [Title of Blog Post](Link): Brief description of the post. 
+- Cyber Forge (Link): embarking on a new path in life. 
 
  
 
@@ -70,6 +70,8 @@ Feel free to reach out to collaborate on projects or just to say hi!
 
 - <h2> Certifcations </h2>
 
+- Google Cybersecurity Professional Certificate
+ 
 - Introduction to Cybersecurity Fundamentals
 
 - Cybersecurity for Everyone
