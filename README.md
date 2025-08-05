@@ -6,11 +6,11 @@
 
 I'm deeply committed to helping people develop systems for self-reliance and personal security. I love exploring tech and building Raspberry Pi projects, especially ones that integrate with Ham radio 📻. Currently, I'm building out my home lab to advance my career in cybersecurity, starting with a focus on SOC analysis.
 
-🌍 **Living in Wyoming**  
+🌍 **Living in Washington**  
 🛠️ Most of my time is spent working on SOC analyst home lab projects to sharpen my cybersecurity skills. I dive into Python scripting 🐍, Kali Linux 🐱‍💻, and AWS cloud solutions ☁️.  
 
-📺 **YouTube & Self-Reliance**  
-On my YouTube channel, I share practical skills for self-reliance because I believe in being prepared for an unpredictable world. Adaptation and overcoming challenges are key to growth, and I aim to avoid stagnation—life is about continuous improvement!  
+📺 **YouTube  
+On my YouTube channel, I share insights and skills for tech and lifestyle. Adaptation and overcoming challenges are key to growth, and I aim to avoid stagnation—life is about continuous improvement!  
 
 🎧 **Keeping Up with Cybersecurity**  
 I stay informed by regularly tuning into the SimplyCyber podcast, which helps me stay updated on the latest in the cybersecurity field.
